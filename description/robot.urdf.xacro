@@ -3,4 +3,5 @@
 
     <xacro:include filename="$(find box_bot)/description/robot_core.xacro" />
     
+    <xacro:include filename="$(find box_bot)/description/gazebo_control.xacro" />
 </robot>
